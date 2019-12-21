@@ -1,0 +1,4 @@
+resolution : 500 * 300
+
+
+width 500, height 300

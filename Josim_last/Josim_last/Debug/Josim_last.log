@@ -1,0 +1,17 @@
+﻿Build started 12/22/2019 12:16:33 AM.
+     1>Project "F:\Unorganized\Josim_last\Josim_last\Josim_last.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\Josim_last.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         All outputs are up-to-date.
+       Link:
+         All outputs are up-to-date.
+         Josim_last.vcxproj -> F:\Unorganized\Josim_last\Debug\Josim_last.exe
+       FinalizeBuildStatus:
+         Deleting file "Debug\Josim_last.unsuccessfulbuild".
+         Touching "Debug\Josim_last.lastbuildstate".
+     1>Done Building Project "F:\Unorganized\Josim_last\Josim_last\Josim_last.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.02

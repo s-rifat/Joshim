@@ -1,5 +1,5 @@
 # Joshim
-This is our first group project in university life. We built the game when we were in first year second semester. 
+This is our first group project in university. We built the game when we were in first year second semester. 
 This is a simple dual fighting game. There are three rounds. You have to win at least two rounds to win. Joshim is the main character of
 the game. 
 
